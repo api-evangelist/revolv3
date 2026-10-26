@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Revolv3 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.revolv3.com/
+Revolv3 provides an enterprise payment processing platform focused on maximizing first‑pass approval rates. It offers SaaS subscription billing, payment optimization, orchestration, and a next‑gen payment gateway for platforms and marketplaces. The solution supports high‑risk payments, scaling for businesses, and integrates with various ERP and CRM systems. Revolv3 aims to reduce friction, improve transaction success, and deliver flexible pricing models for enterprises.
+
+**Areas:** Company · Payments · SaaS · Enterprise · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.revolv3.com/)
+- [Documentation](https://docs.revolv3.com/)
+- [Getting started](https://docs.revolv3.com/docs/getting-started)
+- [API reference](https://docs.revolv3.com/)
+- [Pricing](https://www.revolv3.com/pricing)
+- [Support](https://www.revolv3.com/contact-us)
+- [Blog](https://www.revolv3.com/resource/blogs)
+- [Compliance](https://trust.revolv3.com/)
+- [Terms of service](https://www.revolv3.com/legal/terms-and-conditions)
+- [Privacy policy](https://www.revolv3.com/legal/privacy-policy)
+- [GitHub](https://github.com/revolv3)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/revolv3/](https://apis.io/providers/revolv3/).
